@@ -47,8 +47,8 @@
 <p> Conclui-se que, com o grande avanço da tecnologia, os idosos precisam de certa ajuda para se adaptarem – e o sistema proposto irá realizar estar função, auxiliando-os no cotidiano, ensinando desde o mais básico a funções específicas das aplicações mais utilizadas e agregando novos conhecimentos e integração ao mundo atual. A divulgação do aplicativo pode auxiliar até mesmo as famílias que porventura precisam se comunicar com os idosos, mas não conseguem ensiná-los de forma eficaz, e para que os idosos se sintam mais confiantes na utilização de algo que para eles é tão novo, mas ao mesmo tempo tão diferente e desafiador. </p>
 
 # 5 – Referências
-<p>JORDÃO, Fábio. História: a evolução do celular. Tecmundo, 2009. Disponível em: https://www.tecmundo.com.br/celular/2140-historia-a-evolucao-do-celular.htm
-CÉREBRO DE IDOSOS é mais lento por excesso de informação, diz pesquisa. BBC News Brasil, 2014. Disponível em: https://www.bbc.com/portuguese/noticias/2014/01/140121_cerebro_lentidao_velhos_lgb </p>
+<p>JORDÃO, Fábio. História: a evolução do celular. Tecmundo, 2009. Disponível em: https://www.tecmundo.com.br/celular/2140-historia-a-evolucao-do-celular.htm </p>
+<p> CÉREBRO DE IDOSOS é mais lento por excesso de informação, diz pesquisa. BBC News Brasil, 2014. Disponível em: https://www.bbc.com/portuguese/noticias/2014/01/140121_cerebro_lentidao_velhos_lgb </p>
 <p>PRINCIPAIS OBSTÁCULOS da inclusão digital na terceira idade: uma revisão sistemática. Editora Realize, 2019. Disponível em: https://editorarealize.com.br/editora/anais/cieh/2019/TRABALHO_EV125_MD1_SA9_ID1712_27052019125015.pdf </p>
 <p>BAPTISTA, Hélio Honorato Oliveira et al. A informática social: inclusão na terceira idade, 2014. Tese de Doutorado. </p>
 <p>SCAFFUTO, Arthur. Tecnologia: os desafios encontrados na terceira idade. Jornal Daqui BH, 2017. Disponível em: https://www.daquibh.com.br/tecnologia-os-desafios-encontrados-na-terceira-idade/ </p>
